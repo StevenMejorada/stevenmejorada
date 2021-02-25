@@ -4,12 +4,15 @@
 
 I'm Steven from London, United Kingdom.  I enjoy writing code and care about UI and UX design. Currently, I'm working on  my Front End development skills through various mediums such as udemy, frontendmentor.io and codecademy.
 
-##Skills
+## Skills
 * 💻 HTML / CSS / JAVASCRIPT
 * 🌈 SCSS
 * 🎫 GIT 
 
+## Learning...
 - 🌱 I’m currently learning Javascript, React 
+
+## Contact
 - 📫 How to reach me: steven.mejorada@gmail.com 
 
 
