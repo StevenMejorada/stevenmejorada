@@ -1,10 +1,13 @@
-### Hi there 👋, Steven Mejorada
+# Steven Mejorada
 #### Junior Front End Developer
 ![Junior Front End Developer](https://github.com/StevenMejorada/stevenmejorada/blob/main/%23development_%23design%20(1).png)
 
 I'm Steven from London, United Kingdom.  I enjoy writing code and care about UI and UX design. Currently, I'm working on  my Front End development skills through various mediums such as udemy, frontendmentor.io and codecademy.
 
-Skills: HTML / CSS / JAVASCRIPT / SCSS / GIT 
+##Skills
+* 💻 HTML / CSS / JAVASCRIPT
+* 🌈 SCSS
+* 🎫 GIT 
 
 - 🌱 I’m currently learning Javascript, React 
 - 📫 How to reach me: steven.mejorada@gmail.com 
